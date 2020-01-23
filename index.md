@@ -1,6 +1,9 @@
-Welcome to My ePortfolio Page
-William Medrano Gutshall
-Computer Science Major at Southern New Hampshire University
+Welcome to My ePortfolio Page.
+
+William Medrano Gutshall.
+
+Computer Science Major at Southern New Hampshire University.
+
 
 You can use the [editor on GitHub](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
