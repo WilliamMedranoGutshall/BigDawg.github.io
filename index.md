@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+#Welcome to My ePortfolio Page
+##William Medrano Gutshall
+##Computer Science Major at Southern New Hampshire University
 
 You can use the [editor on GitHub](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [![William Medrano Gutshall Code Review](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/CodeReviewSnip.JPG)](https://youtu.be/ptY4YaHSm0g "WilliamMedranoGutshallCodeReview")
 
