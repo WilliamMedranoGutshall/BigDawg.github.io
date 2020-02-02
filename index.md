@@ -14,8 +14,6 @@ Professional Self-Assessment:
 
 
 [![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/CodeReviewSnip.JPG)](https://youtu.be/ptY4YaHSm0g "WilliamMedranoGutshallCodeReview")
-https://williammedranogutshall.github.io/BigDawg.github.io/
-
 
 
 ### Sprint One - Software design and engineering
