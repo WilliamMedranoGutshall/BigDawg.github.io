@@ -1,4 +1,5 @@
-[Welcome to My ePortfolio Page.](https://williammedranogutshall.github.io/BigDawg.github.io/EPortfolioImage.jpg)
+Welcome to My ePortfolio Page.
+(https://williammedranogutshall.github.io/BigDawg.github.io/EPortfolioImage.jpg)
 
 
 Professional Self-Assessment:
