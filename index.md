@@ -1,9 +1,5 @@
 Welcome to My ePortfolio Page.
 
-William Medrano Gutshall.
-
-Computer Science Major at Southern New Hampshire University.
-
 Professional Self-Assessment:
 
 
