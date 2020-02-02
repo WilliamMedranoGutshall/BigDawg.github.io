@@ -13,10 +13,6 @@ Professional Self-Assessment:
 	At the start of the code review phase, it is good practice for the developer to make sure the source code is properly annotated before passing it off to another developer. This is important because the commenting and annotations made in the source code will allow the reviewer to better understand the thought process of the developer, follow the code easier, and thus be able to provide better feedback to the developer (SmartBear, 2019). The foundation for a productive review is the implementation of a positive code review culture. It is often difficult to take criticism of work that we have an emotional attachment to, and by using the best practice of maintaining a positive culture, it makes the developer more likely to accept and utilize the information provided in the review. I believe that a good code review doesn’t just include what was done wrong or what the reviewer didn’t like, but it also includes what the developer did right and suggestions for how to correct or improve the recommendations. The positives help put the developer into a more comfortable and less defensive mindset and including suggestions for improvements helps the developer understand the mindset of the reviewer. Another best practice is to use lightweight code reviews. According to SmartBear, lightweight code reviews only consume about 20% of the time of formal reviews and they find just as many bugs (2019). The last set of best practices that I advocate are reviewing fewer than 400 lines of code and not to review for more than 60 minutes at a time. According to SmartBear, the mind can only process a certain amount of information, and after 400 lines of code and 60 minutes, the ability to find defects diminishes, and these limitations will be the most efficient because they should yield between 70% to 90% of defect discovery (2019). The one practice that I haven’t really heard discussed before, but I think is important is to not rely on the code review to fix issues. It may seem like the easiest approach, but a code review is about defect discovery and not about leaving defects for someone else to find a solution for. Before code is put up for review it should be fully functional and properly tested by the developer. 
 
 
-Code Review of IT145 Zoo Authentication application chosen for enhancement:
-[![William Medrano Gutshall Code Review](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/CodeReviewSnip.JPG)](https://youtu.be/ptY4YaHSm0g "WilliamMedranoGutshallCodeReview")
-
-
 [![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/CodeReviewSnip.JPG)](https://youtu.be/ptY4YaHSm0g "WilliamMedranoGutshallCodeReview")
 https://williammedranogutshall.github.io/BigDawg.github.io/
 
@@ -28,11 +24,11 @@ Click here for more information on [Sprint One](https://williammedranogutshall.g
 
 ### Sprint Two - Algorithms and data structures
 
-Click here for more information on [Sprint Two](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintTwo.md).
+Click here for more information on [Sprint Two](https://williammedranogutshall.github.io/BigDawg.github.io/SprintTwo).
 
 ### Sprint Three - Databases
 
-Click here for more information on [Sprint Three](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintThree.md).
+Click here for more information on [Sprint Three](https://williammedranogutshall.github.io/BigDawg.github.io/SprintThree).
 
 
 
