@@ -18,16 +18,17 @@ Code Review of IT145 Zoo Authentication application chosen for enhancement:
 
 
 
-### Enhancement One
+### Sprint One - Software design and engineering
 
+Click here for more information on [Sprint One](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintOne.md).
 
-https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintOne.md
+### Sprint Two - Algorithms and data structures
 
+Click here for more information on [Sprint Two](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintOne.md).
 
+### Sprint Three - Databases
 
+Click here for more information on [Sprint Three](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintOne.md).
 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
