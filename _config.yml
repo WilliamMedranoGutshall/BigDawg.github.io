@@ -1,3 +1,7 @@
 theme: jekyll-theme-modernist
 title: Welcome to Will Medrano Gutshall's homepage.
 description: Feel free to bookmark this page and watch for upcoming project updates.
+
+overflow-y: scroll;
+overflow-x: hidden;
+
