@@ -24,11 +24,11 @@ Click here for more information on [Sprint One](https://github.com/WilliamMedran
 
 ### Sprint Two - Algorithms and data structures
 
-Click here for more information on [Sprint Two](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintOne.md).
+Click here for more information on [Sprint Two](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintTwo.md).
 
 ### Sprint Three - Databases
 
-Click here for more information on [Sprint Three](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintOne.md).
+Click here for more information on [Sprint Three](https://github.com/WilliamMedranoGutshall/BigDawg.github.io/blob/master/SprintThree.md).
 
 
 
