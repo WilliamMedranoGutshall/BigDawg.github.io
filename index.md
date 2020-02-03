@@ -1,6 +1,7 @@
 ![Welcome to My ePortolio Page](https://williammedranogutshall.github.io/BigDawg.github.io/EPortfolioImage.jpg)
 
-**Professional Self-Assessment:**
+
+### Professional Self-Assessment:
 
 **Coursework**
 The Computer Science field encompasses a large variety of topics and gave me a chance to broaden my skill sets. My computer science education began even before I enrolled at Southern New Hampshire University, with over fifteen years of experience working with electronics and programming industrial control systems. Although numerical control programming and ladder logic programming used for machines and robotics utilize a different type of programming, the best practices and thought processes are very similar. This experience along with extensive problem-solving experience that is required in this field is a great foundation for writing and debugging code. The time in this field required frequent interaction and collaboration in a team environment as well as providing feedback to the end user and leadership, which are valuable traits for a junior software developer moving into a career that will likely include team based development for a stakeholder outside the development team. Coming from a career with these similarities would allow me to more easily transition into a team-based development environment and integrate with the team, which would allow me to be value added to a company much quicker than someone without this type of experience. I view my educational progression at Southern New Hampshire University in three steps, introduction to multiple programming languages and best practices, software development life cycle and project planning, and advanced programming skills and application of these skills into projects. 
