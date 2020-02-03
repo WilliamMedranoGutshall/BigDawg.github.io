@@ -1,5 +1,6 @@
-### **Sprint One: Software design and engineering**
-**Convert Original Application from Java to Python**
+## **Sprint One: Software design and engineering**
+
+### **Convert Original Application from Java to Python**
 
 The first enhancement started with the final project from IT 145. In this class I created an authentication system for zoo application. The user was given the opportunity to enter a username and password, and these credentials were matched against a file list. The passwords were stored and compared in MD5, message digest, hash form for more security. The user was limited to three failed logins before the program was exited and if they authenticated correctly, they were given access to a file based on their role. I chose this project because it was one of my early projects and I thought is was a great opportunity to show the evolution of my programming skills and mastering of best practices and the SDLC, software development lifecycle. I was given the message digest hashing algorithm that was used for storing and checking passwords, and at this point in my education, I had very little knowledge of hashing or using algorithms to perform functions. I have since studied the process of hashing and practices using more complex algorithms. 
 
@@ -9,10 +10,10 @@ The biggest challenge I faced was working with the MD5 hashing. When I did the o
 
 I also got some good practice working with Python methods. When I look back on my original program, my code was hard to follow and had a lot of variables that weren’t necessary. One of my goals of this enhancement was to write an application that was easy to follow, easy to maintain and easy to expand. My previous Python projects were also lacking good use of methods to complete repeatable functions. For this application I used a separate method for each function, such as checking usernames, checking passwords, and staff menus that were dependent on their job title. I got practice sending and receiving information from these methods, including receiving more than one variable back from the method which I had never done before. I learned some new techniques for working with methods and got practice using good design methodology to create a better version of my previous work. 
 
-Instructions for testing application:
+### **Instructions for testing application:**
 
-Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.py) for sprint one.
+- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.py) for sprint one.
 
-This application may be imported into an Python compatable IDE or ran as a script. 
+- This application may be imported into an Python compatable IDE or ran as a script. 
 
-There are three sample user names and all three have an unhashed password of "abcd". If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
+- There are three sample user names that can be viewed below the author comments and all three have an unhashed password of "abcd". If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
