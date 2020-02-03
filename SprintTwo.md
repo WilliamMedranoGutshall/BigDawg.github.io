@@ -13,7 +13,7 @@ TestOut. (2019). TestOut Security Pro. Retrieved from https://www.testout.com/
 
 ### **Instructions for testing application:**
 
-- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.py) for sprint two.
+- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurity.py) for sprint two.
 
 - This application may be imported into an Python compatable IDE or ran as a script. 
 
