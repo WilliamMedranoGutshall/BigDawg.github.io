@@ -57,14 +57,17 @@ Code review is the use of a person or automation to assist in the finding of err
 Click here for more information on [code review](https://williammedranogutshall.github.io/BigDawg.github.io/CodeReview) and to see a video of my code review of the project to be enhanced. 
 
 ### Sprint One - Software design and engineering
+The first sprint was the creation of the zoo authentication application in python using improved design choices and development best practices.
 
 Click here for more information on [Sprint One](https://williammedranogutshall.github.io/BigDawg.github.io/SprintOne).
 
 ### Sprint Two - Algorithms and data structures
+The second sprint was used to increase functionality to enhance the user experience and to security harden the application through proper error handling and input validation. 
 
 Click here for more information on [Sprint Two](https://williammedranogutshall.github.io/BigDawg.github.io/SprintTwo).
 
 ### Sprint Three - Databases
+The final sprint was the creation of a No-SQL database to manage the user tasks and to create the Create Read Update Delete functionality and assign it to appropriate staff. 
 
 Click here for more information on [Sprint Three](https://williammedranogutshall.github.io/BigDawg.github.io/SprintThree).
 
