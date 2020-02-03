@@ -1,5 +1,5 @@
-### **Sprint Three: Databases**
-**Implement Create Read Update Delete functionality for job tasks with MongoDB No-SQL**
+## **Sprint Three: Databases**
+### **Implement Create Read Update Delete functionality for job tasks with MongoDB No-SQL**
 
 The third enhancement started off with the program from enhancement two, which is a continuation of enhancement one. Enhancement one was to convert the final project from IT 145 into Python, which was an authentication system for zoo application. The user was given the opportunity to enter a username and password, and these credentials were matched against a file list. The passwords were stored and compared in MD5, message digest, hash form for more security. The user was limited to three failed logins before the program was exited, and if they authenticated correctly, they were given access to a file based on their role. Enhancement two was to harden the application against security risks, such as buffer overflow, by adding error handling and input limitations. I chose this project because it was one of my early projects and I thought is was a great opportunity to show the evolution of my programming skills and mastering of best practices and the SDLC, software development lifecycle. When I was reviewing my previous projects, this one also made the most sense for good use of a database. With the current format, the job duties are based solely on the job title and they are stored within the program. This doesn’t make very much sense since employees within a job category may have very different daily duties, especially when it comes to general labor. Job duties may rotate as well, which means that it makes more sense to have individualized job duties. This is where the database would make a huge advantage. The database can be used to store all the individualized job tasks and make them easily updatable and retrievable.
 
@@ -11,9 +11,17 @@ I met all the requirements that I setout to accomplish; however, my plan has cha
 	  
 I started with the read option since that was the one I was previously stuck on. My code would return the entire document, but when I tried to set the fields equal to ones or zeros, I ran into issues with error message or with returning just a pointer. I tried every combination of find and find_one commands I could think of using quotes and no quotes, using a query and not using a query, and changing up the command one item at a time and notating the results. I left the previous command in place with a comment to block it out. I worked through all the possibilities until I was able to return exactly what I needed. The next problem was the tasks were being returned in random order. The only way I could figure out how to solve this is to break them down into four different find commands with four different print statements, and performing the printing within the read method and not return the value back to the menu method for printing. I still ran into issues with faults because I had just changed copied the code and changed three of the 1’s to 0’s. For some reason, I was getting error messages, which were resolved by deleting the ones that were 0’s. Solving this issue was good practice in the various ways of limiting the find and find_one commands and how small changes affect the results. It helped sharpen my problem solving skills and helped get me ready for more real world situations where I may need to use information on the internet to help me debug code. My code meets the requirements, but I would still like to get my code to return in plain text instead of in the No-SQL format. Although it is easy to see what it is and formatted for easy viewing, I still feel as if this were a real-world application that somebody would complain about the brackets and the u’s being in the return text. My experience dealing with people has taught me if you give people anything to complain about, someone will complain. I have been researching alternatives, getting a better understanding of JSON, javascript object notation, learning about a dump feature, and I have experimented with a few different addons. I plan on keeping with this over the next several weeks and even if I don’t solve it, I am learning new material in the process that may help me later on. 
 
-
-
-
-
 References
 GeeksforGeeks. Introduction to NoSQL. Retrieved from https://www.geeksforgeeks.org/introduction-to-nosql/	
+
+
+
+### **Instructions for testing application:**
+
+- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooManagement.py) for sprint two.
+
+- This application is designed to run as a script in an environment that is setup for MongoDB and Pymongo and is able to connect to the No-SQL database through a Python script, such as Codio. 
+
+- There are five sample user names that can be viewed below the author comments and all three have an unhashed password of "abcd". If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
+
+- To run this application, a database by the name of BigDawgZoo and collection of ZooTasks must be setup, or the db=connection and collection=db lines at the beginning of the application must be changed to match the database and collection names desired. The application contains all of the functionality needed to insert new documents directly from the running script.
