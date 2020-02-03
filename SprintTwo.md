@@ -1,5 +1,5 @@
-### **Sprint Two: Algorithms and data structures**
-**Expand funcationality & application hardening with error handling and input validation**
+## **Sprint Two: Algorithms and data structures**
+### **Expand funcationality & application hardening with error handling and input validation**
 
 The second enhancement started off with the program from enhancement one. Enhancement one was to convert the final project from IT 145 into Python, which was an authentication system for zoo application. The user was given the opportunity to enter a username and password, and these credentials were matched against a file list. The passwords were stored and compared in MD5, message digest, hash form for more security. The user was limited to three failed logins before the program was exited, and if they authenticated correctly, they were given access to a file based on their role. I chose this project because it was one of my early projects and I thought is was a great opportunity to show the evolution of my programming skills and mastering of best practices and the SDLC, software development lifecycle. When I was reviewing my previous projects, this one stood out to me as needing a lot of enhancement to be a viable application. I have since become proficient at using methods to divide up functionality and using lists to minimize numerous related variables. I have also studied cybersecurity and understand the need for application hardening to mitigate attacks. I was honestly stunned that this was my project because it was hard to follow and was incredibly vulnerable to attack and felt as this was an opportunity to go back and make it right. It also gave me an opportunity to put cybersecurity and testing practices into play because I could look at the program from the view of someone trying to break the code and prevent it. 
 
@@ -8,9 +8,13 @@ Enhancement two was about application hardening security by putting in limitatio
 I met all the enhancement requirements that I set out to complete for this milestone. I didn’t run into any major issues completing this enhancement; however, I did face some small challenges. This first one is proper indenting. Since the indenting on Python matters to the functionality of the code, when I added try/except lines to each of the methods and had to shift all of the code over, I had to pay close attention to the indenting and make sure it was correct. When I was testing the length of the input to make sure it was within the parameters, I couldn’t get the count feature to work. I researched it and couldn’t find any suggestions on why I was getting my errors. When I reviewed my Python class notes, I found a spreadsheet that I had made with all the commands. As I looked through them, I realized that Python used the len command instead of the count for what I was trying to do and changing the while parameter to use len instead of count fixed that issue. It didn’t take me long to figure out, but I did run into an issue when I attempted to test my two new employees that had the two new job titles. The program had a bug that prevented it from selecting the correct job type and thus call the correct job method because I forgot to change the number of employees in the variable. It took me less than 15 minutes to figure this out and correct the code to fix this bug. This project was a great opportunity to implement security practices that I learned in cybersecurity class by going through the application and trying to come up with anyway that a potential attacker can break my program. Putting myself in the point of view of the attacker and trying to determine what I would attack was a productive way to also practice quality control because a tester has the job of trying to determine how to break the code. It gave me a chance to learn to work with try/except commands, something that I previously had little experience in. 
 
 
-
-
-
-
 References
 TestOut. (2019). TestOut Security Pro. Retrieved from https://www.testout.com/
+
+### **Instructions for testing application:**
+
+- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.py) for sprint two.
+
+- This application may be imported into an Python compatable IDE or ran as a script. 
+
+- There are five sample user names that can be viewed below the author comments and all three have an unhashed password of "abcd". If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
