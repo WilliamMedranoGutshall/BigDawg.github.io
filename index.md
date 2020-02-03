@@ -1,9 +1,10 @@
 ![Welcome to My ePortolio Page](https://williammedranogutshall.github.io/BigDawg.github.io/EPortfolioImage.jpg)
 
 
-### Professional Self-Assessment:
+## Professional Self-Assessment:
 
-**Coursework**
+#### Coursework
+
 The Computer Science field encompasses a large variety of topics and gave me a chance to broaden my skill sets. My computer science education began even before I enrolled at Southern New Hampshire University, with over fifteen years of experience working with electronics and programming industrial control systems. Although numerical control programming and ladder logic programming used for machines and robotics utilize a different type of programming, the best practices and thought processes are very similar. This experience along with extensive problem-solving experience that is required in this field is a great foundation for writing and debugging code. The time in this field required frequent interaction and collaboration in a team environment as well as providing feedback to the end user and leadership, which are valuable traits for a junior software developer moving into a career that will likely include team based development for a stakeholder outside the development team. Coming from a career with these similarities would allow me to more easily transition into a team-based development environment and integrate with the team, which would allow me to be value added to a company much quicker than someone without this type of experience. I view my educational progression at Southern New Hampshire University in three steps, introduction to multiple programming languages and best practices, software development life cycle and project planning, and advanced programming skills and application of these skills into projects. 
 
 Programming languages and best practices:
@@ -45,28 +46,28 @@ Elective skills that I chose to pursue:
 •	Cyber security is important to any company that has a computer network and sensitive information to protect. The ability to harden applications to prevent outside attacks such as buffer overflow through the use of input limitations and proper error handling are a valuable asset to any company looking to employ a software developer. 
 
 
-**Overview of the project**
+#### Overview of the project
 
 Two of the concepts learned in my computer science education are development through iteration and continuous deployment. The agile software development lifecycle breaks development down into sprints, with each sprint adding additional features and resolving issues with previous iterations. The best way to display the skills learned during my education are to simulate an iteration-based development of one of my earliest projects. I chose to start with a zoo authentication application which was my first Java development project. I remember being proud of the fact that I chose the difficult option of utilizing message digest hashing to store and compare passwords, but when I look back on that project, I don’t even recognize the style and design choices because my development skills have evolved so much in the past three years. There is a big difference between someone who has learned a programming language and can write code and a professional developer. Most development projects are complex and are done in teams, which means code needs to be easy to understand and follow, easy to modify and perform maintenance on, and easy to change or add features. Applications launched for use by a user must consider application security and operational decisions to match the needs of the user. 
 
 The three categories of enhancements are software design and engineering, algorithms and data structures, and databases. Since the end goal is to be able to utilize a database which can more effectively store and manage employee files, I made the design choice to start with a program language change. The first sprint would be to rewrite the program in Python instead of Java. In my experience, Python’s simpler structure makes it easier and more effective in working with databases. I performed this iteration by starting with the requirements of the original application development and created a flow chart and broke down each of the requirements into its own user story. These were placed in order and developed such that each user story could be developed, and then developer tested. Finding issues as early in the development process as possible makes it easier to address and solve these issues before they compound. The second sprint focused on adding additional functionality and hardening security. An application that poses a security risk to an organizations network shouldn’t be released and used until it goes through a hardening process. For this iteration, I broke the development down into groups of user stories that included added functionality, error handling, and input validation. Input validation is necessary to prevent attacks such as buffer overflow which happens when more data is coming in than the application allots for and the data is written into the adjacent buffer memory. Additional functionality was used to make the application more useful to an end user. Error handling was used to appropriately and smoothly handle any failure conditions that may arise, such as preventing an application from failing open and exposing the security of the application and network. I evaluated all the user stories needed and then developed and developer tested each one. The third sprint was to incorporate a database for storage. This makes sense for a zoo management application because not every employee is going to have the same daily tasks to complete, not even ones with the same job titles. Without the database, daily tasks could be individualized based on a feature such as job titles, but it is extremely time consuming and impractical to manage employee tasks within the confines of an application’s code. The user stories were created for each of the CRUD, create read update delete, features. Requirement evaluation was determined which types of users would receive access to each of these features, such as zookeepers only having access to their daily tasks but an HR administrator had full access to create a new user task, delete a user task, view their own or someone else’s tasks, and to update tasks. This planning was important to maintain the concept of least privilege where employees are only given the minimum amount of access needed to do their work. Through this development, broken down into three sprints, I was not only able to show that I have strong coding skills, but I understand the software development lifecycle, understand the access and management of databases through scripting, application of development best practices to allow me smooth integration into a development team, as well as implementing hardening process to properly secure important data. This project shows that I am a complete Computer Science professional. 
 
-### Code Review:
+## Code Review:
 Code review is the use of a person or automation to assist in the finding of errors, bad design, and opportunities for improvement. Software development is done by people and thus is prone to mistakes and bugs. Code review helps ensure quality and prevents negatively impacting other developers in a team environment. 
 
 Click here for more information on [code review](https://williammedranogutshall.github.io/BigDawg.github.io/CodeReview) and to see a video of my code review of the project to be enhanced. 
 
-### Sprint One - Software design and engineering
+## Sprint One - Software design and engineering
 The first sprint was the creation of the zoo authentication application in python using improved design choices and development best practices.
 
 Click here for more information on [Sprint One](https://williammedranogutshall.github.io/BigDawg.github.io/SprintOne).
 
-### Sprint Two - Algorithms and data structures
+## Sprint Two - Algorithms and data structures
 The second sprint was used to increase functionality to enhance the user experience and to security harden the application through proper error handling and input validation. 
 
 Click here for more information on [Sprint Two](https://williammedranogutshall.github.io/BigDawg.github.io/SprintTwo).
 
-### Sprint Three - Databases
+## Sprint Three - Databases
 The final sprint was the creation of a No-SQL database to manage the user tasks and to create the Create Read Update Delete functionality and assign it to appropriate staff. 
 
 Click here for more information on [Sprint Three](https://williammedranogutshall.github.io/BigDawg.github.io/SprintThree).
