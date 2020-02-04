@@ -13,6 +13,13 @@ I met all the enhancement requirements that I set out to complete for this miles
 References
 TestOut. (2019). TestOut Security Pro. Retrieved from https://www.testout.com/
 
+### User Stories
+-  As a zoo administrator, I need to add two more user types: human resource administrator and labor. 
+- As a network security administrator, I need the username passwords to be limited to ten characters to help mitigate buffer overflow attacks.
+- As a network security administrator, I need the passwords to be a minimum of four characters because anything less will be too easy to brute force attack, and I need the maximum to be ten characters to help mitigate buffer overflow attacks.
+- As a network security administrator, I need all loops to include a default value to handle conditions that aren’t defined, such as improperly entered data. 
+- As a network security administrator, I need all methods to use proper error handling to prevent the application from failing in the open condition. 
+
 ### **Instructions for testing application:**
 
 - Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurity.py) for sprint two.
