@@ -12,6 +12,15 @@ The biggest challenge I faced was working with the MD5 hashing. When I did the o
 
 I also got some good practice working with Python methods. When I look back on my original program, my code was hard to follow and had a lot of variables that weren’t necessary. One of my goals of this enhancement was to write an application that was easy to follow, easy to maintain and easy to expand. My previous Python projects were also lacking good use of methods to complete repeatable functions. For this application I used a separate method for each function, such as checking usernames, checking passwords, and staff menus that were dependent on their job title. I got practice sending and receiving information from these methods, including receiving more than one variable back from the method which I had never done before. I learned some new techniques for working with methods and got practice using good design methodology to create a better version of my previous work. 
 
+### User Stores
+- As a zoo administrator, I need to be able to define a list of usernames, passwords, and job titles within the application’s code. I need three initial job titles: administrators, zookeeper, and veterinarian. 
+- As a user, I need to be able to input my username and password to be authenticated and given access t to the system.
+- As a user, I need for the system to determine my user type and provide me the appropriate menu based on my user type.
+- As a user, I need my menu to provide me the ability to choose between displaying my daily tasks and logging off to take me back to the main menu.  
+- As a network security administrator, I need the system to only allow three login attempts before exiting the application to help make brute force attacks more difficult. 
+- As a network security administrator, I need the passwords to utilize encryption with MD5 hashing and for the entered passwords to be converted and compared to the hashed list.
+
+
 ### **Instructions for testing application:**
 
 - Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.py) for sprint one.
