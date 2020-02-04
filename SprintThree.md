@@ -31,3 +31,5 @@ GeeksforGeeks. Introduction to NoSQL. Retrieved from https://www.geeksforgeeks.o
 - There are five sample user names that can be viewed below the author comments and all three have an unhashed password of "abcd". If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
 
 - To run this application, a database by the name of BigDawgZoo and collection of ZooTasks must be setup, or the db=connection and collection=db lines at the beginning of the application must be changed to match the database and collection names desired. The application contains all of the functionality needed to insert new documents directly from the running script.
+
+- Before running Python program, the command **../startMognod.sh** is required to connect to MongoDB in Codio
