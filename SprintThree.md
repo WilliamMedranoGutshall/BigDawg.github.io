@@ -16,7 +16,11 @@ I started with the read option since that was the one I was previously stuck on.
 References
 GeeksforGeeks. Introduction to NoSQL. Retrieved from https://www.geeksforgeeks.org/introduction-to-nosql/	
 
-
+### User Stories
+- As a zoo administrator, I need to have the job tasks stored in a database so that they can be easily managed and individualized instead of being the same for every user type.
+- As an administrator user, I need the additional ability to view any employees job tasks and update them.
+- As a human resource administrator, I need the additional ability to add new employees to the job task database when an employee is hired, ability to delete employees when terminated, and the ability to view and update any user tasks documents.
+- As a user, I would prefer that job tasks are displayed in clear text form for easier viewing
 
 ### **Instructions for testing application:**
 
