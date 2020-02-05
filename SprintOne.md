@@ -31,4 +31,4 @@ I also got some good practice working with Python methods. When I look back on m
 
 ### **Video Demonstration of Code**
 
-[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.JPG)](https://youtu.be/ptY4YaHSm0g "WilliamMedranoGutshallSprintOne")
+[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.JPG)](https://youtu.be/ywt-FLeMqvs "WilliamMedranoGutshallSprintOne")
