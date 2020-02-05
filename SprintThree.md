@@ -24,7 +24,7 @@ GeeksforGeeks. Introduction to NoSQL. Retrieved from https://www.geeksforgeeks.o
 
 ### **Instructions for testing application:**
 
-- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooManagement.py) for sprint two.
+- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooManagement.py) for sprint three.
 
 - This application is designed to run as a script in an environment that is setup for MongoDB and Pymongo and is able to connect to the No-SQL database through a Python script, such as Codio. 
 
