@@ -28,3 +28,7 @@ I also got some good practice working with Python methods. When I look back on m
 - This application may be imported into an Python compatable IDE or ran as a script. 
 
 - There are three sample user names that can be viewed below the author comments and all three have an unhashed password of "abcd". If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
+
+### **Video Demonstration of Code**
+
+[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthentication.JPG)](https://youtu.be/ptY4YaHSm0g "WilliamMedranoGutshallSprintOne")
