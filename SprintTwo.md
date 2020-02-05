@@ -26,3 +26,7 @@ TestOut. (2019). TestOut Security Pro. Retrieved from https://www.testout.com/
 - This application may be imported into an Python compatable IDE or ran as a script. 
 
 - There are five sample user names that can be viewed below the author comments and all three have an unhashed password of "abcd". If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
+
+### **Video Demonstration of Code**
+
+[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurity.JPG)](https://youtu.be/e_5a5RgFy_Y "WilliamMedranoGutshallSprintTwo")
