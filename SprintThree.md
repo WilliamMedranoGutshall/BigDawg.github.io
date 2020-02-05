@@ -33,3 +33,8 @@ GeeksforGeeks. Introduction to NoSQL. Retrieved from https://www.geeksforgeeks.o
 - To run this application, a database by the name of BigDawgZoo and collection of ZooTasks must be setup, or the db=connection and collection=db lines at the beginning of the application must be changed to match the database and collection names desired. The application contains all of the functionality needed to insert new documents directly from the running script.
 
 - Before running Python program, the command **../startMognod.sh** is required to connect to MongoDB in Codio
+
+
+### **Video Demonstration of Code**
+
+[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooManagement.JPG)](https://youtu.be/2vtQbFkaHus "WilliamMedranoGutshallSprintThree")
