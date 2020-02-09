@@ -48,4 +48,4 @@ As a developer we create an emotional attachment to our work and can often overl
 
 ### **Video Demonstration of Refactoring**
 
-[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurity.JPG)](https://youtu.be/e_5a5RgFy_Y "WilliamMedranoGutshallSprintTwo")
+[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurityV2.JPG)](https://youtu.be/Ypf1i8jTOcw "WilliamMedranoGutshallSprintTwo")
