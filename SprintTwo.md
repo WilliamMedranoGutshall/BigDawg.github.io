@@ -37,3 +37,15 @@ As a developer we create an emotional attachment to our work and can often overl
 ### **Video Demonstration of Code**
 
 [![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurity.JPG)](https://youtu.be/e_5a5RgFy_Y "WilliamMedranoGutshallSprintTwo")
+
+### **Instructions for Refactored Version:**
+
+- Click here to download [Python File](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurityV2.py) for sprint two.
+
+- This application may be imported into an Python compatable IDE or ran as a script. 
+
+- There are five sample user with the following user names and passwords: Will W1ll, Michelle M1che!!e, Briana Br1@n@, Celina Ce!1n@, and Mike M!k3. If additional users are to be added, passwords must be in the hexadecimal form of a MD5 hash to work with the application.
+
+### **Video Demonstration of Refactoring**
+
+[![William Medrano Gutshall Code Review](https://williammedranogutshall.github.io/BigDawg.github.io/ZooAuthenticationSecurity.JPG)](https://youtu.be/e_5a5RgFy_Y "WilliamMedranoGutshallSprintTwo")
